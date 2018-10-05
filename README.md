@@ -22,4 +22,4 @@ Tools and other interesting libraries.
 
 * [InSpec](https://github.com/inspec/inspec), an open sourced toolset by Chef, provides a testing framework for infrastructure with a human- and machine-readable language for specifying compliance, security, and policy requirements.
 
-* [OpenControl](https://github.com/opencontrol), is an open source platform for highly automated, user-friendly self-service compliance assessments and documentation. [Compliance Masonry], is a command-line interface (CLI) that allows users to construct certification documentation using the OpenControl Schema.
+* [OpenControl](https://github.com/opencontrol), is an open source platform for highly automated, user-friendly self-service compliance assessments and documentation. [Compliance Masonry](https://github.com/opencontrol/compliance-masonry), is a command-line interface (CLI) that allows users to construct certification documentation using the OpenControl Schema.
